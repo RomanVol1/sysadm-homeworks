@@ -3,7 +3,7 @@
 
 
 Здесь [GitHub](https://github.com/RomanVol1/devops-netology)
-и [GitLab](https://gitlab.com/my-cool-name/devops-netology)
+И здесь [GitLab](https://gitlab.com/my-cool-name/devops-netology)
 
 PyCharm
 
