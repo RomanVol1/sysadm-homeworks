@@ -1,11 +1,11 @@
 # Домашнее задание к занятию «Основы Git» - RomanG
 
-```
+
 Привет, [Дока](https://doka.guide "Энциклопедия про web-dev")!
 
 Здесь [GitHub](https://github.com/RomanVol1/devops-netology)
 в GitLab — [https://gitlab.com/YOUR_ACCOUNT/devops-netology/-/tags;]
-```
+
 
 PyCharm
 
