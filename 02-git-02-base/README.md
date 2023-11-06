@@ -2,7 +2,7 @@
 
 ```
 в GitHub — https://github.com/RomanVol1/devops-netology
-в GitLab — [https://gitlab.com/YOUR_ACCOUNT/devops-netology/-/tags;](https://gitlab.com/my-cool-name/devops-netology)
+в GitLab — [https://gitlab.com/YOUR_ACCOUNT/devops-netology/-/tags;]
 ```
 
 PyCharm
