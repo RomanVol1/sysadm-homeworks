@@ -1,9 +1,9 @@
 # Домашнее задание к занятию «Основы Git» - RomanG
 
-```
+
 в GitHub — https://github.com/RomanVol1/devops-netology
 в GitLab — [https://gitlab.com/YOUR_ACCOUNT/devops-netology/-/tags;]
-```
+
 
 PyCharm
 
