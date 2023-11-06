@@ -1,7 +1,7 @@
 # Домашнее задание к занятию «Основы Git» - RomanG
 
 ```
-[GitHub](https://github.com/RomanVol1/devops-netology)
+Здесь [GitHub](https://github.com/RomanVol1/devops-netology)
 в GitLab — [https://gitlab.com/YOUR_ACCOUNT/devops-netology/-/tags;]
 ```
 
